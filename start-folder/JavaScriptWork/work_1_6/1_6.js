@@ -6,7 +6,7 @@ function makeCoffee() {
 
       setTimeout(() => {
 
-        console.log("✅スタッフ：コーヒーの準備ができました！");
+        console.log("✅コーヒーができました！");
 
         resolve();
 
@@ -26,7 +26,7 @@ function makeCoffee() {
 
       setTimeout(() => {
 
-        console.log("✅スタッフ：サンドイッチの準備ができました！");
+        console.log("✅サンドイッチができました！");
 
         resolve();
 
